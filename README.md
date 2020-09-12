@@ -7,6 +7,7 @@
 ##### 3. 강의자료 및 예제코드: https://github.com/moebs/python_lab (강의전 매주 업데이트  단톡방 공지 )
 ##### 4. 강의 일정 
 
-![Clipboard01](https://user-images.githubusercontent.com/50386254/92998752-ce93b280-f556-11ea-8cc1-a3cbc10f1388.jpg)
+![Clipboard01](https://user-images.githubusercontent.com/50386254/92999460-fc2f2a80-f55b-11ea-89d0-96890c605386.jpg)
+
 
 
