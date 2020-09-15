@@ -15,8 +15,6 @@
 
 03. mkdir (make directory) - 디렉토리를 생성하는 명령어
 
-mkdir 은 새로운 디렉토리를 만들 때 사용하는 명령어입니다.
-
 $ mkdir dir_name : dir_name 의 디렉토리를 생성합니다.
 
 $ mkdir -p dir_name/sub_dir : 존재하지 않는 디렉토리의 하위디렉토리까지 생성합니다.
@@ -29,15 +27,11 @@ $ mkdir -p dir_name/sub_dir : 존재하지 않는 디렉토리의 하위디렉�
 
 ls 는 현재 위치의 파일 목록을 조회하는 명령어 입니다.
 
-
 $ ls -l : 파일들의 상세정보를 나타냅니다.
 
 $ ls -a : 숨어있는 파일들도 표시합니다.
 
-
 ex) ls -al : 파일들의 상세정보를 나타내며, 숨어 있는 것도 표시합니다.
-
-
 
 
 
@@ -48,13 +42,7 @@ $ wget DOWNLOAD-URL
 
 
 
-
-
-
 06. clear 명령은 기존 터미널 화면을 지우는데 편리합니다. 
-
-
-
 
 
 
@@ -66,9 +54,7 @@ cat file_name : file_name 의 내용을 출력합니다.
 
 
 
-
 08. nano - text 편집기
-
 
 
 
@@ -84,8 +70,6 @@ ex) man nano
 
 
 
-
-
 10. cd (change directory) - 디렉토리를 이동하는 명령어
 
 $ cd ~ : 어느 곳에든지 홈디렉토리로(/home/my_id) 바로 이동합니다.
@@ -93,8 +77,6 @@ $ cd ~ : 어느 곳에든지 홈디렉토리로(/home/my_id) 바로 이동합니
 $ cd .. : 상위 디렉토리로 이동합니다. ( ./ (현재 디렉토리) ../ (상위 디렉토리)) 
 
 $ cd /dir_a : 절대경로 dir_a 로 이동할 경우 사용합니다.
-
-
 
 
 
@@ -114,8 +96,6 @@ $ cp test* ./dir_b
 
 
 
-
-
 12. mv(move) - 파일을 이동/변경 시키는 명령어
 
 mv 는 파일을 이동하는 명령어 입니다. 
@@ -125,8 +105,6 @@ mv 는 원본 파일이 남지 않는다는 점입니다. 그래서 이름 변�
 $ mv file_name_a file_name_b : file_name_a 파일을 file_name_b 이름으로 이동/변경 합니다.
 
 $ mv file_name_a ./dir_a
-
-
 
 
 
